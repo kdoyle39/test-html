@@ -10,8 +10,8 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/kaleydoyle39/
-   
 ---
+
 
 I am an undergraduate student stuyding Business Economics at Brown University.
 
