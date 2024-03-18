@@ -1,29 +1,24 @@
 ---
-title: "Simone"
+title: "Kaley Doyle"
 about:
   template: trestles
   image: profile.jpg
-  links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
+   links:
     - icon: github
       text: Github
       href: https://github.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: google
-      text: Google Scholar
-      href: https://scholar.google.com
+      href: https://www.linkedin.com/in/kaleydoyle39/
 ---
 
-A longer paragraph about me and my interests and anything else I like to do.
+I am a Division I goalie playing ice hockey at Brown University. I will be playing my final year of college hockey at Quinnipiac Univeristy next Fall.
 
 ## Education
+Bachelor's Degree in Business Economics at Brown University
 
-Where I studied
+Master's Degree in Business Administration at Quinnipiac University
 
 ## Experience
 
-What I've done
+Internship at Northwestern Mutual as a Financial Advisor
