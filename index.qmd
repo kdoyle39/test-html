@@ -2,7 +2,7 @@
 title: "Kaley Doyle"
 about:
   template: jolla
-  image: profile.jpg
+  image: ProfilePic.jpg
   links:
     - icon: github
       text: Github

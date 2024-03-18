@@ -2,7 +2,7 @@
 title: "Kaley Doyle"
 about:
   template: trestles
-  image: profile.jpg
+  image: ProfilePic.jpg
    links:
     - icon: github
       text: Github
