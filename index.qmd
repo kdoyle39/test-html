@@ -6,7 +6,7 @@ about:
   links:
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/kdoyle39
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/kaleydoyle39/
